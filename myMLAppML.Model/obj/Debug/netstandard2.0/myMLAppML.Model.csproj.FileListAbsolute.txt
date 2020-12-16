@@ -1,0 +1,10 @@
+D:\School\Exacte vakken\Informatica\Machine Learning\ML.net\myMLApp\myMLAppML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\School\Exacte vakken\Informatica\Machine Learning\ML.net\myMLApp\myMLAppML.Model\bin\Debug\netstandard2.0\myMLAppML.Model.deps.json
+D:\School\Exacte vakken\Informatica\Machine Learning\ML.net\myMLApp\myMLAppML.Model\bin\Debug\netstandard2.0\myMLAppML.Model.dll
+D:\School\Exacte vakken\Informatica\Machine Learning\ML.net\myMLApp\myMLAppML.Model\bin\Debug\netstandard2.0\myMLAppML.Model.pdb
+D:\School\Exacte vakken\Informatica\Machine Learning\ML.net\myMLApp\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.csprojAssemblyReference.cache
+D:\School\Exacte vakken\Informatica\Machine Learning\ML.net\myMLApp\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.AssemblyInfoInputs.cache
+D:\School\Exacte vakken\Informatica\Machine Learning\ML.net\myMLApp\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.AssemblyInfo.cs
+D:\School\Exacte vakken\Informatica\Machine Learning\ML.net\myMLApp\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.csproj.CoreCompileInputs.cache
+D:\School\Exacte vakken\Informatica\Machine Learning\ML.net\myMLApp\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.dll
+D:\School\Exacte vakken\Informatica\Machine Learning\ML.net\myMLApp\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.pdb
